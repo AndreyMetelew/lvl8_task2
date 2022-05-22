@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46813361-063b-4e25-a35e-c23494f2748d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lvl8_task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/fourMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/tenThousandTimesInAndOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/tenThousandTimesInAndOutGetTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/tenThousandTimesInAndOutInsertTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/twoLists.java" afterDir="false" />
-    </list>
+    <list default="true" id="46813361-063b-4e25-a35e-c23494f2748d" name="Changes" comment="Практическая работа №2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651459847080</updated>
     </task>
+    <task id="LOCAL-00001" summary="Практическая работа №2">
+      <created>1653263809653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653263809653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Практическая работа №2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Практическая работа №2" />
   </component>
 </project>
